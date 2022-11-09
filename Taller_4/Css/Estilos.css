@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'England';
+    src: url("../Fonts/England.otf");
+}
+
+.font_england{
+    font-family: "England";
+
+}
+
+
+.body_hijo {
+
+    background-color: #4a4063;
+   color: #fff;
+   font-family: 'SF Pixelate', sans-serif;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+
+}
